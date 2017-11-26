@@ -1,3 +1,3 @@
 # hello-world
 
-Witam, tu Radosław. Interesuję się programowaniem webowym front-end.
+Witam, tu r-solak. Interesuję się programowaniem webowym front-end.
